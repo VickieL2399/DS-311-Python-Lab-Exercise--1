@@ -1,2 +1,2 @@
-# DS-311-Python-Lab-Exercise--1
-Python Lab Exercise #1 
+# DS-311-Python-Lab-Exercise-And-Assignment 
+Python Lab Exercise and Assignment
